@@ -1,0 +1,95 @@
+// 1. Arithmetic operator
+// let a= 5;
+// let b=2;   
+// console.log("a+b=",a+b);//+ operator
+// console.log("a-b=",a-b);//- operator
+// console.log("a*b=",a*b);//multiple operator
+// console.log("a/b=",a/b);// divide operator
+// console.log("a%b=",a%b);//module operator
+// console.log("a**b=",a**b);//Exponentiation operator
+
+// unary opearator
+// let a= 5;
+// let b=2;  
+// console.log("a=",a,"b=",b); //(post++)increment operator 
+// a=a+1;        // a=a-1    
+// console.log("a=",a);//6   //("a=",a)
+
+// a++;      //a--      
+// console.log(a++);    //(a--)
+
+
+//(++pre) decrement operator
+// console.log("++a",++a); 
+// console.log("--a=",--a); 
+
+
+
+
+// 2.  Assignment operators
+// let a=5;
+// let b=4;
+// a+=4;           //  - , *, /, %, **
+// console.log("a=",a);
+
+
+
+
+// 3.  Comparison Operators
+// let a=5;
+// let b=4;
+// console.log("a>b=",a>b);  // ==, <, >, <=, >=, !=, !==, ===
+
+// 4.  Logical Operators
+/*let a= 6;
+let b= 5;
+let cond1 = a>b; //true
+let cond2 = a === 6;//true
+console.log("cond1&&cond2",cond1 && cond2);   //if both condition are true then it will return true else false
+console.log("cond1||cond2",cond1 || cond2);  // if one condition is true then it will return true else false
+console.log("!(6<5)=",!(a<b));  */
+
+
+// 5. ternary operators
+// syntax:-condition?true output:false output
+// let age =25;
+// let result = age>=18? "adult":"child";
+// console.log(result);
+
+
+
+//CONDITIONAL STATEMENT
+
+// 1. if statement
+// let age= 16;
+// if(age>18){
+// console.log("you are adult");
+// }
+// if (age<18){
+// console.log("you are minor");
+// }
+
+
+
+// 2. if else statement
+// let age= 19;
+// if(age>18){
+//     console.log("you can vote");
+// }
+// else{
+//     console.log("you can't vote");
+// }
+
+
+
+// 3.  else if statement
+// let age= 19;
+// if (age>19){
+//     console.log("junior");
+// }
+// else if(age<30){
+//     console.log("senior");
+// }
+// else{
+//     console.log("old");
+// }
