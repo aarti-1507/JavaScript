@@ -1,3 +1,3 @@
 console.log("AARTI");
-let name=["aarti","roshan"]
+let name=["aarti","aaru"]
 console.log(name);
